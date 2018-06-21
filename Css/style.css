@@ -1,9 +1,10 @@
 body{
-  background-color:rgba(200,200,200,0.3);
+  background-color:rgba(200,200,300,0.3);
+  text-align:center;
 }
 head{
   background-color:rgba(200,200,200,0.3);
 }
 p{
-  font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family:"Palatino LT STD", "Palatino Linotype", "Book Antiqua", serif;
 }
