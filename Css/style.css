@@ -2,8 +2,18 @@ body{
   background-color:rgba(200,200,300,0.3);
   text-align:center;
   margin:0;
+  padding:0;
 }
 p{
+  font-family:"Palatino LT STD", "Palatino Linotype", "Book Antiqua", serif;
+}
+h1{
+  font-family:"Palatino LT STD", "Palatino Linotype", "Book Antiqua", serif;
+}
+h3{
+  font-family:"Palatino LT STD", "Palatino Linotype", "Book Antiqua", serif; 
+}
+h4{
   font-family:"Palatino LT STD", "Palatino Linotype", "Book Antiqua", serif;
 }
 div{
