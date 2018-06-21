@@ -1,3 +1,4 @@
+window.onload = StartUp();
 function StartUp()
 {
   this.BG-color = [200, 200, 300];
