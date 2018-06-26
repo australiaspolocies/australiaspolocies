@@ -1,4 +1,4 @@
-window.onload = StartUp();
+
 function StartUp()
 {
   this.R = 200;
