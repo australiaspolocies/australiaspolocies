@@ -1,13 +1,15 @@
 window.onload = StartUp();
 function StartUp()
 {
-  this.BG-color = [200, 200, 300];
+  this.R = 200;
+  this.G = 200;
+  this.B = 300;
   changeBG();
 }
 function changeBG()
 {
  while(true)
  {
-  document.body.style.background-color = rgba(BG-color[0], BG-color[1], BG-color[2], 0.3);
+  document.body.style.background = "rgb(R, G, B, 0.3)";
  }
 }
